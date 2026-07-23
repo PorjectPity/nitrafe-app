@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Nitrafe One v1.0.4
+# 🚀 Nitrafe One v1.0.5
 
-![Version](https://img.shields.io/badge/version-1.0.4--stable-blue.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0.5--stable-blue.svg?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20x64-0078D4.svg?style=for-the-badge&logo=windows)
 ![Built With](https://img.shields.io/badge/architecture-Native%20Win32%20Engine-orange.svg?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/license-Proprietary-red.svg?style=for-the-badge)
@@ -22,8 +22,8 @@ Select your preferred installation format below for direct download:
 
 | Package Type | File Name | Direct Download Link | Format | Size |
 | :--- | :--- | :--- | :---: | :---: |
-| 🚀 **Executable Setup (Recommended)** | `Nitrafe One_1.0.4_x64-setup.exe` | [⬇️ **Download Setup (.exe)**](./Nitrafe%20One_1.0.4_x64-setup.exe?raw=true) | `.exe` | **~2.7 MB** |
-| 📦 **Windows Installer Package** | `Nitrafe One_1.0.4_x64_en-US.msi` | [⬇️ **Download Package (.msi)**](./Nitrafe%20One_1.0.4_x64_en-US.msi?raw=true) | `.msi` | **~4.0 MB** |
+| 🚀 **Executable Setup (Recommended)** | `Nitrafe One_1.0.5_x64-setup.exe` | [⬇️ **Download Setup (.exe)**](./Nitrafe%20One_1.0.5_x64-setup.exe?raw=true) | `.exe` | **~2.7 MB** |
+| 📦 **Windows Installer Package** | `Nitrafe One_1.0.5_x64_en-US.msi` | [⬇️ **Download Package (.msi)**](./Nitrafe%20One_1.0.5_x64_en-US.msi?raw=true) | `.msi` | **~4.1 MB** |
 
 > 💡 **Note:** Click the direct download links above or select the file from the repository list and click **"Download raw"**.
 
@@ -62,14 +62,14 @@ Nitrafe One is engineered for Windows power users, competitive gamers, and works
 ## ⚙️ Installation & Deployment
 
 ### Standard Executable Installation
-1. Download [`Nitrafe One_1.0.0_x64-setup.exe`](./Nitrafe%20One_1.0.0_x64-setup.exe?raw=true).
+1. Download [`Nitrafe One_1.0.5_x64-setup.exe`](./Nitrafe%20One_1.0.5_x64-setup.exe?raw=true).
 2. Double-click the installer executable to launch the NSIS Setup Wizard.
 3. Follow the onscreen wizard steps and launch **Nitrafe One**.
 
 ### Enterprise & Silent MSI Deployment
 To deploy silently across enterprise systems via Command Prompt or PowerShell:
 ```powershell
-msiexec /i "Nitrafe One_1.0.3_x64_en-US.msi" /qb
+msiexec /i "Nitrafe One_1.0.5_x64_en-US.msi" /qb
 ```
 
 ---
@@ -80,12 +80,12 @@ To verify the integrity and authenticity of your downloaded package, check the S
 
 | File Name | SHA-256 Hash |
 | :--- | :--- |
-| **`Nitrafe One_1.0.3_x64-setup.exe`** | `FA9E6A3E822856462557A1E706BC15C235202BF3024D2F73A989ECC1F11F141F` |
-| **`Nitrafe One_1.0.3_x64_en-US.msi`** | `9664813339976EC6092A043C9993F0CBF0CFA9BA2C84B0218B8D86F51A754D05` |
+| **`Nitrafe One_1.0.5_x64-setup.exe`** | `FA9E6A3E822856462557A1E706BC15C235202BF3024D2F73A989ECC1F11F141F` |
+| **`Nitrafe One_1.0.5_x64_en-US.msi`** | `9664813339976EC6092A043C9993F0CBF0CFA9BA2C84B0218B8D86F51A754D05` |
 
 ### Verification Command (PowerShell):
 ```powershell
-Get-FileHash "Nitrafe One_1.0.3_x64-setup.exe"
+Get-FileHash "Nitrafe One_1.0.5_x64-setup.exe"
 ```
 
 ---
