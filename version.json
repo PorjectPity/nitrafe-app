@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-07-23",
+  "download_url": "https://github.com/maxzol/nitrafe-one/releases/download/v1.0.1/Nitrafe.One_1.0.1_x64-setup.exe",
+  "release_notes": "v1.0.1 Stable Release: Added native Win32 process working set RAM trimming, persistent PRO tester license support (valid through 01/01/2027), auto-update engine, and official NitrafeOne.exe binary naming."
+}
