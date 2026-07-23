@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "release_date": "2026-07-23",
-  "download_url": "https://github.com/maxzol/nitrafe-one/releases/download/v1.0.3/Nitrafe.One_1.0.3_x64-setup.exe",
-  "release_notes": "v1.0.3 Stable Release: Added Start Menu residual shortcut scanning, orphaned registry/uninstaller recovery, dynamic RAM gauge card updates, and What's New modal enhancements."
+  "download_url": "https://github.com/maxzol/nitrafe-one/releases/download/v1.0.4/Nitrafe.One_1.0.4_x64-setup.exe",
+  "release_notes": "v1.0.4 Maintenance Release: Performance optimizations, enhanced memory management, intelligent residual trace uninstaller cleanup, and stability improvements."
 }
