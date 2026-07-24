@@ -80,12 +80,12 @@ To verify the integrity and authenticity of your downloaded package, check the S
 
 | File Name | SHA-256 Hash |
 | :--- | :--- |
-| **`Nitrafe One_1.0.6_x64-setup.exe`** | `C17B81DE9ABAA8AE78EBB249A02806689B5590E44A7E720A91F90FD469A158DE` |
-| **`Nitrafe One_1.0.6_x64_en-US.msi`** | `45AFA669CF37DD30E5EF66E60CC79B3ADF96AECCEBC2674599266F829C51F60A` |
+| **`Nitrafe One_1.0.7_x64-setup.exe`** | `C17B81DE9ABAA8AE78EBB249A02806689B5590E44A7E720A91F90FD469A158DE` |
+| **`Nitrafe One_1.0.7_x64_en-US.msi`** | `45AFA669CF37DD30E5EF66E60CC79B3ADF96AECCEBC2674599266F829C51F60A` |
 
 ### Verification Command (PowerShell):
 ```powershell
-Get-FileHash "Nitrafe One_1.0.5_x64-setup.exe"
+Get-FileHash "Nitrafe One_1.0.7_x64-setup.exe"
 ```
 
 ---
