@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Nitrafe One v1.0.6
+# 🚀 Nitrafe One v1.0.7
 
-![Version](https://img.shields.io/badge/version-1.0.6--stable-blue.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0.7--stable-blue.svg?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20x64-0078D4.svg?style=for-the-badge&logo=windows)
 ![Built With](https://img.shields.io/badge/architecture-Native%20Win32%20Engine-orange.svg?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/license-Proprietary-red.svg?style=for-the-badge)
@@ -22,8 +22,8 @@ Select your preferred installation format below for direct download:
 
 | Package Type | File Name | Direct Download Link | Format | Size |
 | :--- | :--- | :--- | :---: | :---: |
-| 🚀 **Executable Setup (Recommended)** | `Nitrafe One_1.0.6_x64-setup.exe` | [⬇️ **Download Setup (.exe)**](./Nitrafe%20One_1.0.6_x64-setup.exe?raw=true) | `.exe` | **~2.7 MB** |
-| 📦 **Windows Installer Package** | `Nitrafe One_1.0.6_x64_en-US.msi` | [⬇️ **Download Package (.msi)**](./Nitrafe%20One_1.0.6_x64_en-US.msi?raw=true) | `.msi` | **~4.1 MB** |
+| 🚀 **Executable Setup (Recommended)** | `Nitrafe One_1.0.7_x64-setup.exe` | [⬇️ **Download Setup (.exe)**](./Nitrafe%20One_1.0.7_x64-setup.exe?raw=true) | `.exe` | **~2.7 MB** |
+| 📦 **Windows Installer Package** | `Nitrafe One_1.0.7_x64_en-US.msi` | [⬇️ **Download Package (.msi)**](./Nitrafe%20One_1.0.7_x64_en-US.msi?raw=true) | `.msi` | **~4.1 MB** |
 
 > 💡 **Note:** Click the direct download links above or select the file from the repository list and click **"Download raw"**.
 
